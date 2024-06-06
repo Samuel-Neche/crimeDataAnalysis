@@ -1,3 +1,3 @@
-# First_Repo
-My Datafied course first project documentation
-at www.datafied.tech
+# Crime data Analysis
+An analysis on a crime geo pfa dataset, identifying trends and getting insights from the data for informed decision making.
+In collaboration with DataFied Academy (www.datafied.tech)
