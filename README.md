@@ -10,7 +10,7 @@ In collaboration with DataFied Academy (www.datafied.tech)
 Our client, a big-city police department, is grappled with escalating crime rates and in need for a more proactive crime prevention strategy. The client reach out to Datafied Technologies to seek expertise to leverage data analytics to gain insights into crime patterns, potential crime hotspots, and develop targeted strategies for crime reduction.
 
 ## Data Sourcing
-The crime data for this analysis was obtained from the open-access dataset provided by the Office for National Statistics (ONS) on their website (http://www.ons.gov.uk/ons). The data covers reported crimes in UK from 2012 to 2024 and includes details such as crime type, date, and location.
+The crime data for this analysis was obtained from the open-access dataset provided by the Office for National Statistics (ONS) on their website (http://www.ons.gov.uk/). The data covers reported crimes in UK from 2012 to 2024 and includes details such as crime type, date, and location.
 
 ## Data Transformation
 The raw crime data underwent cleaning to address missing values. Entries with missing locations were removed, and missing dates were imputed using the median date for the specific crime type. Inconsistent date formats were standardized to YYYY-MM-DD format. To prepare the data for analysis, a new feature was created by combining the 'crime type' and 'location' categories. Additionally, the time of day for each crime was extracted from the timestamp.
