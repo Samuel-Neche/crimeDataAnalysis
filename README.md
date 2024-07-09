@@ -1,6 +1,7 @@
 # Crime Data Analysis
 
-![Project Image](https://img.freepik.com/free-photo/back-view-man-planning-hacker-attack-dark-room-man-writing-wall-with-stickers-photographs-red-threads-planning-conspiracy-hacking-concept_74855-24330.jpg?t=st=1720189987~exp=1720193587~hmac=5cae072af7469f9da560716f4c164a429faec32581afec58fed68869ad838715&w=1380)
+![image](https://github.com/Samuel-Neche/crimeDataAnalysis/assets/117985333/93a6d2a3-5827-4ec6-a31f-1587548dfcdb)
+
 
 ## Introduction
 In today's world, crime rates have surged, posing complex challenges for law enforcement globally. To tackle these issues head-on, the integration of advanced technologies and data analysis is crucial. This case study delves into how crime data analysis can elevate the effectiveness of law enforcement in a major city.
