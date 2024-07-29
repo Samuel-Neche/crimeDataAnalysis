@@ -37,3 +37,8 @@ A dimensional data model was chosen for this analysis. Dimensions with which to 
 The crimeDataFact table stores core crime data including ONS Code (foreign key to location dimension), quarter-year (foreign key to date dimension), and offence code (foreign key to offence dimension). The fact table also includes a measure for crime count. The location dimension includes attributes like Force name, ONS Code, and region. The date dimension includes attributes like quarter-year, financial month, financial year, and financial quarter. The offence dimension includes attributes like offence code, offence group, offence subgroup, and offence description. Relationships were established between the fact table and dimension tables using foreign keys.
 
 ![image](https://github.com/Samuel-Neche/crimeDataAnalysis/assets/117985333/0a76fc38-4a8e-47bc-8f62-8c6e817fb392)
+
+##Data Visualisation
+Appropriate chart types (e.g., bar charts, line charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
+
+![Screenshot 2024-07-29 021927](https://github.com/user-attachments/assets/06ec1de1-7721-44ca-be2c-1eaf32f86cf1)
